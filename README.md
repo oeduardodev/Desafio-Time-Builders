@@ -5,7 +5,7 @@ Batizada de iClima minha aplicação que utiliza a localização do usuário par
 
 ## Screen
 <img src="./public/screens/Screen1.png">
-<img src="./public/screens/Screen2.png">
+<img src="./public/screens/screen2.png">
 
 ## Funcionalidades
 * Utiliza a API OpenWeatherMap para obter informações climáticas da região.
@@ -22,6 +22,7 @@ Batizada de iClima minha aplicação que utiliza a localização do usuário par
 * Geolocation API
 * React Phosphor Icons
 * Styled Components
+* Aos
 
 ## Como Utilizar
 1. Clone o repositório.
